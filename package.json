@@ -1,0 +1,16 @@
+{
+  "name": "minimulter",
+  "version": "1.0.0",
+  "description": "multer en un solo archivo.",
+  "main": "index.js",
+  "scripts": {
+    "Monitoriza": "nodemon ./server localhost 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "multer": "^1.2.0"
+  }
+}
